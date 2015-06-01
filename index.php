@@ -5,22 +5,8 @@
 	<title>Problema de Mar Rovers</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-	<style type="text/css" media="screen">
-		#shadow{
-		    -webkit-box-shadow: 0px 0px 18px 0px rgba(48, 50, 50, 0.48);
-		    -moz-box-shadow:    0px 0px 18px 0px rgba(48, 50, 50, 0.48);
-		    box-shadow:         0px 0px 18px 0px rgba(48, 50, 50, 0.48);		
-		  	
-		  	border-radius: 10px;
-		  	-moz-border-radius: 10px;
-  			-webkit-border-radius: 10px;  
-		  }
-
-		.linea {
-		    border-bottom: 1px solid #EEE;		 
-		}
-	</style>
-</head>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
 <body>
 
 	<div class="container-fluid well">
